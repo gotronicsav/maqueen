@@ -1,6 +1,6 @@
-#This is not our own code
-#This is a share-file
-#Credit : 4tronix
+#Ceci n'est pas notre propre code
+#Nous ne faisons que le partager ~GoTronic
+#Crédit : 4tronix
 
 from microbit import *
 import music
