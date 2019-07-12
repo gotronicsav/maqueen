@@ -1,3 +1,7 @@
+#This is not our own code
+#This is a share-file
+#Credit : 4tronix
+
 from microbit import *
 import music
 import neopixel
